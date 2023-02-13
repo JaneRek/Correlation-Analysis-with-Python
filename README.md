@@ -24,12 +24,10 @@ Question 1. What is the meaning of Rank values? With which parameters does it co
 Answer: We see the negative correlation between the rank and the quality score, number of stars. It means that the rank in the input list is not associated with those parameters. Moreover rank apperas to be the oppposite value to the quality score which indeed can be seen from the input file.
 ![Rank-Stars-Quality-Corr](https://user-images.githubusercontent.com/80624347/218428196-d7dac1dc-34c8-4269-af4f-ee70c861af83.png)
 
-Question 2: Is the higher price and quality associated with the bigger number of stars? 
-
+Question 2: Is the higher price and quality associated with the bigger number of stars?   
 Answer: yes. As we see from correlation matrix the number of stars correlates with the Quality Score (0.84) and the Price(0.8).
 
-Question 3: Is the higher price associated with the bigger quality score? 
-
+Question 3: Is the higher price associated with the bigger quality score?   
 Answer: yes. As we see from correlation matrix the Price and Quality score correlate with the coefficient 0.75.
 
 Let's build the graphs that show relationships between number of stars, price and quality below.
