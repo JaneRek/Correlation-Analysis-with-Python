@@ -3,7 +3,7 @@
 The correlation analysis is performed with Python and the process of analysis can be found in the [GermanRestarauntsAnalysis.ipynb](https://github.com/JaneRek/Correlation-Analysis-with-Python/blob/main/GermanRestarauntsAnalysis.ipynb) file.
 
 The input data is taken from here: https://www.kaggle.com/datasets/mahnoorshahidshakir/best-restaurants-in-germany
-It contains information about the best restaraunts in Germany: price per Person, number of stars, quality score, rank of the restaraunt, etc.
+It contains information about the best restaraunts in Germany: price per person, number of stars, quality score, rank of the restaraunt, etc.
 
 The original input file is uncleaned and contains data possibly from the web scraping. 
 Before the correlation analysis the input file is cleaned and duplicates are removed.
